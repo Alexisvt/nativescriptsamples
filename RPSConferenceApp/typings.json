@@ -1,0 +1,5 @@
+{
+  "globalDependencies": {
+    "faker": "registry:dt/faker#0.0.0+20160406111603"
+  }
+}
